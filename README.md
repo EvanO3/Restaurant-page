@@ -4,9 +4,9 @@
 This project is a simple restaurant homepage created using JavaScript and DOM manipulation. The purpose of the project is to practice dynamic rendering of web pages using JavaScript, without relying on hard-coded HTML.
 
 # Installation
-1. Clone the repository to your local machine.
+ 1. Clone the repository to your local machine.
  
-2. Run npm install to install the necessary dependencies.
+ 2. Run npm install to install the necessary dependencies.
  
  3.Run npm run build to build the project using webpack.
 

@@ -8,9 +8,9 @@ This project is a simple restaurant homepage created using JavaScript and DOM ma
  
 2. Run npm install to install the necessary dependencies.
  
-3.Run npm run build to build the project using webpack.
+ 3.Run npm run build to build the project using webpack.
 
-4.open the dist/index.html file in your browser to view the homepage.
+ 4.open the dist/index.html file in your browser to view the homepage.
 
 # Usage
 The homepage consists of three tabs: Home, Menu, and Contact. Each tab displays its own content and can be accessed by clicking on the corresponding tab.

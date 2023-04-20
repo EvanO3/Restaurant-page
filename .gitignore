@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore build output
+dist/
+build/
+*.log
+
+# Ignore files with sensitive information
+config.ini
+secrets.json
